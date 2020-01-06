@@ -1,3 +1,6 @@
-# Graph Color Test
+# NetworkX Twitter Analysis
+Building recommendations for who I should follow on Twitter.
 
-A test in coloring various nodes in a python NetworkX node graph
+Detailed blog post available at https://bertwagner.com/2020/01/07/using-pythons-networkx-for-twitter-graph-analysis/
+
+Video available at https://youtu.be/8BUHJoOkv0Y
